@@ -1,0 +1,15 @@
+The Code in this folder is for Chapter 6 of "Exploring Arduino"
+http://www.exploringarduino.com/content/ch6
+
+Listing 6-1:  Potentiometer Serial Print Test Program                            /pot
+Listing 6-2:  Tabular Printing using Special Characters                          /pot_tabular
+Listing 6-3:  Arduino Serial Echo Test                                           /echo
+Listing 6-4:  Single LED Control using Characters                                /single_char_control
+Listing 6-5:  RGB LED Control via Serial                                         /list_control
+Listing 6-6:  Arduino Code to send Data to the Computer                          /pot_to_processing/arduino_read_pot
+Listing 6-7:  Processing Code to Read Data and Change Color on the Screen        /pot_to_processing/processing_display_color
+Listing 6-8:  Processing Sketch to Set Arduino RGB Colors                        /processing_control_RGB/processing_control_RGB
+Listing 6-5:  RGB LED Control via Serial [USE AGAIN WITH 6-8 PROCESSING CODE]    /processing_control_RGB/list_control
+Listing 6-9:  Temperature an Light Data Logger                                   /csv_logger
+Listing 6-10: Light-Based Computer Lock                                          /lock_computer
+Listing 6-11: Mouse Control Code for the Leonardo                                /mouse
