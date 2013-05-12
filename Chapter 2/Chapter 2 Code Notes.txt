@@ -1,4 +1,5 @@
-The Code in the folder is for Chapter 2 of "Exploring Arduino"
+The Code in this folder is for Chapter 2 of "Exploring Arduino"
+http://www.exploringarduino.com/content/ch2
 
 Listing 2-1: Turning on an LED					/led
 Listing 2-2: LED with Changing Blink Rate		/blink
