@@ -1,0 +1,6 @@
+The Code in this folder is for Chapter 12 of "Exploring Arduino"
+http://www.exploringarduino.com/content/ch12
+
+Listing 12-1: Hardware Interrupts for Multitasking    /hw_multitask
+Listing 12-2: Simple Timer Interrupt Blink Test       /timer1
+Listing 12-3: Sound Machine Code                      /fun_with_sound
