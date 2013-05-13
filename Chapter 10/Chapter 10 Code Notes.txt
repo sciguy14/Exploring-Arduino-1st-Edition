@@ -1,0 +1,6 @@
+The Code in this folder is for Chapter 10 of "Exploring Arduino"
+http://www.exploringarduino.com/content/ch10
+
+Listing 10-1: LCD Text with an Incrementing Number    /LCD_text
+Listing 10-2: LCD Updating Progress Bar Code          /LCD_progress_bar
+Listing 10-3: Personal Thermostat Program             /LCD_thermostat
