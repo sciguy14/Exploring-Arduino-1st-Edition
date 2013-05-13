@@ -1,0 +1,5 @@
+The Code in this folder is for Chapter 9 of "Exploring Arduino"
+http://www.exploringarduino.com/content/ch9
+
+Listing 9-1: SPI Control of Multiple Digital Potentiometers              /SPI_led
+Listing 9-2: LED and Speaker Volume SPI Digital Potentiometer Control    /LED_speaker
