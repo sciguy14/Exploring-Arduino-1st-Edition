@@ -1,0 +1,29 @@
+<!--
+Exploring Arduino - Code Listing 14-1: HTML Form Page
+http://www.exploringarduino.com/content/ch14
+
+Copyright 2013 Jeremy Blum ( http://www.jeremyblum.com )
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License v3 as published by
+the Free Software Foundation.
+-->
+
+<form action='' method='get'>
+  <input type='hidden' name='L' value='7' />
+  <input type='submit' value='Toggle Red' />
+</form>
+
+<form action='' method='get'>
+  <input type='hidden' name='L' value='6' />
+  <input type='submit' value='Toggle Green' />
+</form>
+
+<form action='' method='get'>
+  <input type='hidden' name='L' value='5' />
+  <input type='submit' value='Toggle Blue' />
+</form>
+
+<form action='' method='get'>
+  <input type='range' name='S' min='0' max='1000' step='100' value='0'/>
+  <input type='submit' value='Set Frequency' />
+</form>

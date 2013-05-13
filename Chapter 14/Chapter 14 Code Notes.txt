@@ -1,0 +1,7 @@
+The Code in this folder is for Chapter 14 of "Exploring Arduino"
+http://www.exploringarduino.com/content/ch14
+
+Listing 14-1: HTML Form Page                                                        /server_form
+Listing 14-2: Web Server Code                                                       /control_led_speaker
+Unlisted:     COSM Single Sensor Transmission Code [Available From COSM Website]    /cosm
+Listing 14-3: Two Sensor Cosm Transmitter                                           /cosm2
