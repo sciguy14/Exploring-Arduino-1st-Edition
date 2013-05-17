@@ -1,0 +1,6 @@
+Taking It Further - Chapter 8
+
+Use I2C devices to enable all kinds of exciting new projects:
+* Add an I2C DAC to your Arduino to enable true analog output.
+* Add an I2C gyroscope or accelerometer to detect tilting and movement.
+* Use an I2C barometric pressure sensor paired with the temperature and light sensors that you’ve already used to make a great weather station.

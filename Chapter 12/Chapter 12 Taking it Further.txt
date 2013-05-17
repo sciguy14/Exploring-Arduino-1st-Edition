@@ -1,0 +1,7 @@
+Taking It Further - Chapter 12
+
+Interrupts allow you build interesting new asynchronous projects. Here are some project suggestions that you can now complete:
+* Build a reaction timer game that tests how quickly you can press a button when a light turns on.
+* Build a cyclometer for your bike that determines speed by triggering a magnetic reed switch every time a magnet on your tire spoke spins by it.
+* Build a feedback control system for a DC motor that uses a rotary encoder to determine motor speed.
+* Integrate a blinking status LED into your existing projects that doesn’t interfere with the timing of the rest of your program.

@@ -1,0 +1,7 @@
+Taking It Further - Chapter 9
+
+Use SPI devices to enable all kinds of exciting new projects:
+* Add digital accelerometers and gyroscopes as sensors to your project.
+* Utilize an SPI high-precision analog-to-digital converter to read analog signals with a higher degree of resolution than the Arduino can do on its own.
+* Add an SPI thermocouple chip to facilitate super-accurate temperature measurements.
+* Use the audiovisual platform developed in this chapter to build interactive art exhibits with lights and sounds.

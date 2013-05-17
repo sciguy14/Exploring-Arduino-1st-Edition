@@ -1,0 +1,7 @@
+Taking It Further - Chapter 11
+
+Without wires holding you back, the possibilities are limitless! Here are some project suggestions that you can now complete:
+* Build the SudoGlove control system (http://www.sudoglove.com).
+* Build a wireless multimedia remote for your computer by using Leonardo keyboard emulation on a receiving Arduino.
+* Build a remote-controlled car
+* Build a remote weather station and monitor it from your computer or from another Arduino with data displayed on an LCD.

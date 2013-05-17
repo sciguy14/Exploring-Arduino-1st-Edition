@@ -1,0 +1,6 @@
+Taking It Further - Chapter 5
+
+Use the skills that you’ve picked up in this chapter to augment previous projects that you’ve worked on or to explore more on your own. Here are a few suggestions:
+* Use a distance sensor to sound an alarm when somebody enters your room.
+* Make music that responds to environmental conditions such as light and temperature.
+* Make an audiovisual art installation that uses both lights and sounds to convey an idea or a mood.

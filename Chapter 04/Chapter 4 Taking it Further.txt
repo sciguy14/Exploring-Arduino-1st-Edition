@@ -1,0 +1,8 @@
+Taking It Further - Chapter 4
+
+With your skills from this chapter, combined with your knowledge of analog and digital inputs and outputs and your growing knowledge of the Arduino programming knowledge, you are already equipped to do a number of exciting projects. You can accomplish the following few things by using knowledge you already have. Try building one of them or coming up with your own:
+* A roving car with a scanning distance sensor that can avoid walls
+* A motion-sensitive light
+* A personal thermostat and fan (Fans are just DC motors with blades on them.)
+* A code-activated lock box (Push debounced buttons in a certain order to disengage a servo motor.)
+* A light-activated jack-in-the-box that uses a servo motor to pop up when you turn on the lights

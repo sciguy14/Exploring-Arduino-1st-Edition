@@ -1,0 +1,9 @@
+Taking It Further - Chapter 6
+
+Use the new skills you learned in this chapter to build exciting new projects! Here are some suggestions:
+* Write a Processing sketch that connects to Twitter and tweets out an announcement every time your Arduino detects movement in your room.
+* Use a Leonardo to make a gamepad that enables you to quickly execute key combinations for your favorite video game.
+* Use a Leonardo to make a physical lock button for your computer that sends a screen lock key combination when a physical button is pressed.
+* Hook up a dozen LEDs to your Arduino and create a Processing GUI to control each of them or to activate different flashing patterns.
+* Use Processing to create a graphical display of analog values changing on ADC inputs to your Arduino.
+

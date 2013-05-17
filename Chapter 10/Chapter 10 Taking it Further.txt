@@ -1,0 +1,6 @@
+Taking It Further - Chapter 10
+
+Having a display on your Arduino project opens an entire world of possibilities. Here are some project suggestions that you can now complete:
+* Create a launch controller for your model rockets.
+* Make a reaction timer that uses pushbuttons and an alert on the LCD to time how quickly you can press the button once prompted.
+* Make an infrared measuring tape that determines distances and tells them to you using the LCD.

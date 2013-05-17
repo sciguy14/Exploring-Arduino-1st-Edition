@@ -1,0 +1,7 @@
+Taking It Further - Chapter 14
+
+Now that your Arduino can get on the web, the sky is the limit. Here are some project suggestions that you can now complete:
+* Make a web-controlled robotic claw.
+* Construct a  remote pet feeder. Allow your pet to trigger it with a motion sensor, or set it to a timer with a real time clock.
+* Create a monitoring system for the amount of sunlight your plants are receiving.
+* Assemble an array of LEDs that flash various colors to tell you when you’ve received an email, a tweet, and so on.

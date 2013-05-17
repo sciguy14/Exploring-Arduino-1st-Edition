@@ -1,0 +1,7 @@
+Taking It Further - Chapter 13
+
+You can use data logging in many different ways. Here are some project suggestions that you can now complete:
+* Build a data logger for an autonomous vehicle or aircraft.
+* Build a wireless weather station that stores weather history.
+* Build a home-efficiency monitor that monitors when you forget to turn your lights off.
+* Build a temperature logger that records how frequently the compressor switches on inside your air conditioner or refrigerator.

@@ -1,0 +1,6 @@
+Taking It Further - Chapter 7
+
+Using the new skills you learned in this chapter, paired with knowledge from previous chapters, you can experiment with some new projects:
+* Daisy chain eight shift registers and make an enormous 8x8 64 LED display. You will need to use a separate 5V regulator to power the VCC pins on the shift registers, as this will consume more power than the Arduino’s built-in regulator can supply. The 5V L4940V5 linear regulator that you used in Chapter 5, “Using Transistors and Driving Motors,” will work well for this.
+* Make a volume unit (VU) meter that responds to an analog input from a microphone.
+* Make a physical bar graph that responds to mouse movements in a processing program running on your computer.
