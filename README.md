@@ -2,7 +2,7 @@ Exploring Arduino: Tools and Techniques for Engineering Wizardry
 ================================================================
 These are the code files that accompany the *Exploring Arduino* book by [Jeremy Blum](http://www.jeremyblum.com)
 ----------------------------------------------------------------------------------------------------------------
-This GitHub repo will always contain the most up-to-date versions of the code examples provided within the book.  
+These are the most up-to-date versions of the code examples provided within the book.  
   
 All of the code within the book is tested and confirmed to work with the provided example scenarios. However, I may choose to make improvements or adjustments to the code over time. When I make changes, they will always be available for download here. Futhermore, changes that I commit to this GitHub repository will automatically be zipped and pushed to the [Exploring Arduino Website](http://www.exploringarduino.com/content).  For those unfamiliar with GitHub or git version control, I recommend that you visit the Exploring Arduino Website to download zip files containing the code for each chapter in this book.
 
