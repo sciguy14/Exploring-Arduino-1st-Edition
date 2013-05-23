@@ -25,7 +25,7 @@ void loop()
 {
   val = analogRead(LIGHT);                      //read the light sensor
   val = map(val, MIN_LIGHT, MAX_LIGHT, 255, 0); //map the light reading
-  val = constrain(val, 0, 255);                 //constrain the light value
+  val = constrain(val, 0, 255);                 //constrain light value
   analogWrite(RLED, val);                       //control the LED
 }
 

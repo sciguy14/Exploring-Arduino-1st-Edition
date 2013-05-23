@@ -20,8 +20,8 @@ void setup()
   pinMode(CLK, OUTPUT);
   
   digitalWrite(LATCH, LOW);                //Latch Low
-  shiftOut(SER, CLK, MSBFIRST, B10101010); //Send data, Most Significant Bit first
-  digitalWrite(LATCH, HIGH);               //Latch High - Display setting
+  shiftOut(SER, CLK, MSBFIRST, B10101010); //Shift Most Sig. Bit First
+  digitalWrite(LATCH, HIGH);               //Latch High - Show pattern
 }
 
 void loop()

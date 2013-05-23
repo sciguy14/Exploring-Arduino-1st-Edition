@@ -29,9 +29,9 @@ void loop()
 {
   for (int i = 0; i < 14; i++)
   {
-    digitalWrite(LATCH, LOW);             //Latch Low - start sending data
-    shiftOut(SER, CLK, MSBFIRST, seq[i]); //Send data, Most Significant Bit first
-    digitalWrite(LATCH, HIGH);            //Latch High - stop sending data
+    digitalWrite(LATCH, LOW);             //Latch Low - start sending
+    shiftOut(SER, CLK, MSBFIRST, seq[i]); //Shift Most Sig. Bit First
+    digitalWrite(LATCH, HIGH);            //Latch High - stop sending
     delay(100);                           //Animation Speed
   }
 }

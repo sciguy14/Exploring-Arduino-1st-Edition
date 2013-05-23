@@ -38,9 +38,10 @@ void loop()
   distance = map(distance, minVal, maxVal, 0, 8);
   distance = constrain(distance,0,8);
 
-  digitalWrite(LATCH, LOW);                 //Latch low - start sending data
+  digitalWrite(LATCH, LOW);                 //Latch low - start sending
   shiftOut(SER, CLK, MSBFIRST, vals[distance]); //Send data, MSB first
-  digitalWrite(LATCH, HIGH);                //Latch high - stop sending data
+  digitalWrite(LATCH, HIGH);                //Latch high - stop sending
   delay(10);                                //Animation speed
+
 }
 
