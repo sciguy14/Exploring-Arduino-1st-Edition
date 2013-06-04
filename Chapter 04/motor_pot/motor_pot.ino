@@ -11,7 +11,7 @@ the Free Software Foundation.
 //Motor Speed Control with a Pot
 
 const int MOTOR=9;  //Motor on Digital Pin 9
-const int POT=0;    //Motor on Analog Pin 0
+const int POT=0;    //POT on Analog Pin 0
 
 int val = 0;
 
