@@ -38,7 +38,7 @@ boolean debounce(boolean last)
 
 void loop()
 {
-  currentButton = debounce(lastButton);              //read deboucned state
+  currentButton = debounce(lastButton);              //read debounced state
   if (lastButton == LOW && currentButton == HIGH)    //if it was pressed…
   {
     ledOn = !ledOn;                                  //toggle the LED value
