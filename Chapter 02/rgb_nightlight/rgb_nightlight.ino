@@ -69,7 +69,7 @@ void setMode(int mode)
     digitalWrite(BLED, HIGH);
   }
   //PURPLE (RED+BLUE)
-  if (mode == 4)
+  else if (mode == 4)
   {
     analogWrite(RLED, 127);
     analogWrite(GLED, 0);
