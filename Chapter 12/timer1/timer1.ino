@@ -16,7 +16,7 @@ void setup()
 {
   pinMode(LED, OUTPUT);  
   Timer1.initialize(1000000); // set a timer of length 1000000 microseconds (1 second)
-  Timer1.attachInterrupt(blinky); //Runs "blinky" on each timmer interrupt
+  Timer1.attachInterrupt(blinky); //Runs "blinky" on each timer interrupt
 }
  
 void loop()
