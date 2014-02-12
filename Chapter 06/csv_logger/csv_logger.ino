@@ -22,16 +22,16 @@ int counter = 1;             //An index for logged data entries
 
 void setup()
 {
-  pinMode (LED, OUTPUT);   //Set blue LED as output
+  pinMode (LED, OUTPUT);   //Set red LED as output
   Keyboard.begin();        //Start keyboard emulation
 }
 
 void loop()
 {
-  currentButton = debounce(lastButton);           //Read deboucned state
+  currentButton = debounce(lastButton);           //Read debounced state
  
   if (lastButton == LOW && currentButton == HIGH) //If it was pressed…
-    running = !running;                           //Toggle runnning state
+    running = !running;                           //Toggle running state
   
   lastButton = currentButton;                     //Reset button value
  
