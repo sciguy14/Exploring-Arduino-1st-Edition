@@ -41,7 +41,7 @@ void setup()
  
   //Set up timer interrupt
   Timer1.initialize(500000); // (.5 seconds)
-  Timer1.attachInterrupt(changePitch); //Runs "changePitch" on each timer interupt
+  Timer1.attachInterrupt(changePitch); //Runs "changePitch" on each timer interrupt
 }
 
 void changeKey()
