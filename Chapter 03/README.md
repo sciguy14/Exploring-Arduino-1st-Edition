@@ -3,9 +3,9 @@ _Exploring Arduino:_ First Edition, Chapter 3
 The code in this folder is for Chapter 3 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch3  
   
-Listing 3-1: Potentiometer Reading Sketch       /pot
-Listing 3-2: Temperature Alert Sketch           /tempalert
-Listing 3-3: Automatic Night Light Sketch       /nightlight
+* Listing 3-1: Potentiometer Reading Sketch       /pot
+* Listing 3-2: Temperature Alert Sketch           /tempalert
+* Listing 3-3: Automatic Night Light Sketch       /nightlight
 
 Open Source License
 -------------------

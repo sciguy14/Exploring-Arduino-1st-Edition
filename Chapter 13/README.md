@@ -3,10 +3,10 @@ _Exploring Arduino:_ First Edition, Chapter 13
 The code in this folder is for Chapter 13 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch13  
   
-Listing 13-1: SD Card Write Test                    /write_to_sd
-Listing 13-2: SD Reading and Writing                /sd_read_write
-Listing 13-3: SD Reading and Writing with an RTC    /sd_read_write_rtc
-Listing 13-4: Entrance Logger Software              /entrance_logger
+* Listing 13-1: SD Card Write Test                    /write_to_sd
+* Listing 13-2: SD Reading and Writing                /sd_read_write
+* Listing 13-3: SD Reading and Writing with an RTC    /sd_read_write_rtc
+* Listing 13-4: Entrance Logger Software              /entrance_logger
 
 Open Source License
 -------------------

@@ -3,9 +3,9 @@ _Exploring Arduino:_ First Edition, Chapter 7
 The code in this folder is for Chapter 7 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch7  
   
-Listing 7-1:  Alternating LED Pattery on a Shift Register    /alternate
-Listing 7-2:  Light Rider Sequence Code                      /lightrider
-Listing 7-3:  Bar Graph Distance Control                     /bargraph
+* Listing 7-1:  Alternating LED Pattery on a Shift Register    /alternate
+* Listing 7-2:  Light Rider Sequence Code                      /lightrider
+* Listing 7-3:  Bar Graph Distance Control                     /bargraph
 
 Open Source License
 -------------------

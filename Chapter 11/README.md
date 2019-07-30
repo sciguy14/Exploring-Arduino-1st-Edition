@@ -3,12 +3,12 @@ _Exploring Arduino:_ First Edition, Chapter 11
 The code in this folder is for Chapter 11 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch11  
   
-Listing 11-1: Arduino Code to send Data to the Computer                      /pot_to_processing/arduino_read_pot
-Listing 11-2: Processing Code to Read Data and Change Color on the Screen    /pot_to_processing/processing_display_color
-Listing 11-3: RGB LED Control via Serial                                     /processing_control_RGB/list_control
-Listing 11-4: Processing Sketch to Set Arduino RGB Colors                    /processing_control_RGB/processing_control_RGB
-Listing 11-5: Doorbell Transmitter                                           /doorbell/transmitting_arduino
-Listing 11-6: Doorbell Receiver                                              /doorbell/receiving_arduino
+* Listing 11-1: Arduino Code to send Data to the Computer                      /pot_to_processing/arduino_read_pot
+* Listing 11-2: Processing Code to Read Data and Change Color on the Screen    /pot_to_processing/processing_display_color
+* Listing 11-3: RGB LED Control via Serial                                     /processing_control_RGB/list_control
+* Listing 11-4: Processing Sketch to Set Arduino RGB Colors                    /processing_control_RGB/processing_control_RGB
+* Listing 11-5: Doorbell Transmitter                                           /doorbell/transmitting_arduino
+* Listing 11-6: Doorbell Receiver                                              /doorbell/receiving_arduino
 
 Open Source License
 -------------------

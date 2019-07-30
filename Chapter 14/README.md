@@ -3,10 +3,10 @@ _Exploring Arduino:_ First Edition, Chapter 14
 The code in this folder is for Chapter 14 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch14  
   
-Listing 14-1: HTML Form Page                                                    /server_form
-Listing 14-2: Web Server Code                                                   /control_led_speaker
-Listing 14-3: Xively Datastream Upload                                          /xively
-Listing 14-4: Xively Datastream Upload Code Updated to Read Multiple Sensors    /cosm2
+* Listing 14-1: HTML Form Page                                                    /server_form
+* Listing 14-2: Web Server Code                                                   /control_led_speaker
+* Listing 14-3: Xively Datastream Upload                                          /xively
+* Listing 14-4: Xively Datastream Upload Code Updated to Read Multiple Sensors    /cosm2
 
 Open Source License
 -------------------

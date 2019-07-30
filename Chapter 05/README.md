@@ -3,8 +3,8 @@ _Exploring Arduino:_ First Edition, Chapter 5
 The code in this folder is for Chapter 5 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch5  
 
-Listing 5-1: Arduino Music Player      /music
-Listing 5-2: Pentatonic Micro Piano    /piano
+* Listing 5-1: Arduino Music Player      /music
+* Listing 5-2: Pentatonic Micro Piano    /piano
 
 Open Source License
 -------------------

@@ -3,9 +3,9 @@ _Exploring Arduino:_ First Edition, Chapter 8
 The code in this folder is for Chapter 8 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch8  
   
-Listing 8-1: I2C Temperature Sensor Printing Code                                              /read_temp
-Listing 8-2: I2C Temperature Sensors Code with Shift Register LEDs and Serial Communication    /temp_unit
-Listing 8-3: Processing Sketch for Displaying Temperature Values                               /display_temp
+* Listing 8-1: I2C Temperature Sensor Printing Code                                              /read_temp
+* Listing 8-2: I2C Temperature Sensors Code with Shift Register LEDs and Serial Communication    /temp_unit
+* Listing 8-3: Processing Sketch for Displaying Temperature Values                               /display_temp
 
 Open Source License
 -------------------

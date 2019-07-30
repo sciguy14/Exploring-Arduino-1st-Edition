@@ -3,9 +3,9 @@ _Exploring Arduino:_ First Edition, Chapter 12
 The code in this folder is for Chapter 12 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch12  
   
-Listing 12-1: Hardware Interrupts for Multitasking    /hw_multitask
-Listing 12-2: Simple Timer Interrupt Blink Test       /timer1
-Listing 12-3: Sound Machine Code                      /fun_with_sound
+* Listing 12-1: Hardware Interrupts for Multitasking    /hw_multitask
+* Listing 12-2: Simple Timer Interrupt Blink Test       /timer1
+* Listing 12-3: Sound Machine Code                      /fun_with_sound
 
 Open Source License
 -------------------

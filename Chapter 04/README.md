@@ -3,11 +3,11 @@ _Exploring Arduino:_ First Edition, Chapter 4
 The code in this folder is for Chapter 4 of the FIRST EDITION of "Exploring Arduino"  
 https://www.exploringarduino.com/content1/ch4  
 
-Listing 4-1: Automatic Speed Control                 /motor
-Listing 4-2: Adjustable Speed Control                /motor_pot
-Listing 4-3: H-Bridge Potentiometer Motor Control    /hbridge
-Listing 4-4: Servo Potentiometer Control             /servo
-Listing 4-5: Sweeping Distance Sensor                /sweep
+* Listing 4-1: Automatic Speed Control                 /motor
+* Listing 4-2: Adjustable Speed Control                /motor_pot
+* Listing 4-3: H-Bridge Potentiometer Motor Control    /hbridge
+* Listing 4-4: Servo Potentiometer Control             /servo
+* Listing 4-5: Sweeping Distance Sensor                /sweep
 
 Open Source License
 -------------------
