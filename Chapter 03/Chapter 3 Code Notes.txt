@@ -1,6 +1,0 @@
-The Code in this folder is for Chapter 3 of "Exploring Arduino"
-http://www.exploringarduino.com/content/ch3
-
-Listing 3-1: Potentiometer Reading Sketch       /pot
-Listing 3-2: Temperature Alert Sketch           /tempalert
-Listing 3-3: Automatic Night Light Sketch       /nightlight

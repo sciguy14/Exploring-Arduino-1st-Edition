@@ -1,5 +1,0 @@
-The Code in this folder is for Chapter 5 of "Exploring Arduino"
-http://www.exploringarduino.com/content/ch5
-
-Listing 5-1: Arduino Music Player      /music
-Listing 5-2: Pentatonic Micro Piano    /piano

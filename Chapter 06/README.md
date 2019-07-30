@@ -1,10 +1,20 @@
-_Exploring Arduino:_ 1st Edition
-================================
-_These are the code files that accompany the 1st Edition of the [*Exploring Arduino* book](https://www.exploringarduino.com) by [Jeremy Blum](https://www.jeremyblum.com)_  
+_Exploring Arduino:_ First Edition, Chapter 6
+=============================================
+The code in this folder is for Chapter 6 of the FIRST EDITION of "Exploring Arduino"  
+https://www.exploringarduino.com/content1/ch6  
   
-These are the most up-to-date versions of the code examples provided within the 1st Edition book. If you have the 2nd Edition of the book, please visit the [2nd Edition GitHub Repo](https://github.com/sciguy14/Exploring-Arduino-2nd-Edition).  
-  
-All of the code within the book is tested and confirmed to work with the provided example scenarios. However, I may choose to make improvements or adjustments to the code over time. When I make changes, they will always be available for download here. Futhermore, changes that I commit to this GitHub repository will automatically be zipped and pushed to the [Exploring Arduino Website](https://www.exploringarduino.com/content1).  For those unfamiliar with GitHub or git version control, I recommend that you visit the Exploring Arduino Website to download zip files containing the code for each chapter in this book.
+Listing 6-1:  Potentiometer Serial Print Test Program                            /pot
+Listing 6-2:  Tabular Printing using Special Characters                          /pot_tabular
+Listing 6-3:  Arduino Serial Echo Test                                           /echo
+Listing 6-4:  Single LED Control using Characters                                /single_char_control
+Listing 6-5:  RGB LED Control via Serial                                         /list_control
+Listing 6-6:  Arduino Code to send Data to the Computer                          /pot_to_processing/arduino_read_pot
+Listing 6-7:  Processing Code to Read Data and Change Color on the Screen        /pot_to_processing/processing_display_color
+Listing 6-8:  Processing Sketch to Set Arduino RGB Colors                        /processing_control_RGB/processing_control_RGB
+Listing 6-5:  RGB LED Control via Serial [USE AGAIN WITH 6-8 PROCESSING CODE]    /processing_control_RGB/list_control
+Listing 6-9:  Temperature an Light Data Logger                                   /csv_logger
+Listing 6-10: Light-Based Computer Lock                                          /lock_computer
+Listing 6-11: Mouse Control Code for the Leonardo                                /mouse
 
 Open Source License
 -------------------

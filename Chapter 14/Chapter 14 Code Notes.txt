@@ -1,7 +1,0 @@
-The Code in this folder is for Chapter 14 of "Exploring Arduino"
-http://www.exploringarduino.com/content/ch14
-
-Listing 14-1: HTML Form Page                                                    /server_form
-Listing 14-2: Web Server Code                                                   /control_led_speaker
-Listing 14-3: Xively Datastream Upload                                          /xively
-Listing 14-4: Xively Datastream Upload Code Updated to Read Multiple Sensors    /cosm2

@@ -1,10 +1,12 @@
-_Exploring Arduino:_ 1st Edition
-================================
-_These are the code files that accompany the 1st Edition of the [*Exploring Arduino* book](https://www.exploringarduino.com) by [Jeremy Blum](https://www.jeremyblum.com)_  
+_Exploring Arduino:_ First Edition, Chapter 13
+==============================================
+The code in this folder is for Chapter 13 of the FIRST EDITION of "Exploring Arduino"  
+https://www.exploringarduino.com/content1/ch13  
   
-These are the most up-to-date versions of the code examples provided within the 1st Edition book. If you have the 2nd Edition of the book, please visit the [2nd Edition GitHub Repo](https://github.com/sciguy14/Exploring-Arduino-2nd-Edition).  
-  
-All of the code within the book is tested and confirmed to work with the provided example scenarios. However, I may choose to make improvements or adjustments to the code over time. When I make changes, they will always be available for download here. Futhermore, changes that I commit to this GitHub repository will automatically be zipped and pushed to the [Exploring Arduino Website](https://www.exploringarduino.com/content1).  For those unfamiliar with GitHub or git version control, I recommend that you visit the Exploring Arduino Website to download zip files containing the code for each chapter in this book.
+Listing 13-1: SD Card Write Test                    /write_to_sd
+Listing 13-2: SD Reading and Writing                /sd_read_write
+Listing 13-3: SD Reading and Writing with an RTC    /sd_read_write_rtc
+Listing 13-4: Entrance Logger Software              /entrance_logger
 
 Open Source License
 -------------------

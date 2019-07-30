@@ -1,10 +1,14 @@
-_Exploring Arduino:_ 1st Edition
-================================
-_These are the code files that accompany the 1st Edition of the [*Exploring Arduino* book](https://www.exploringarduino.com) by [Jeremy Blum](https://www.jeremyblum.com)_  
+_Exploring Arduino:_ First Edition, Chapter 11
+==============================================
+The code in this folder is for Chapter 11 of the FIRST EDITION of "Exploring Arduino"  
+https://www.exploringarduino.com/content1/ch11  
   
-These are the most up-to-date versions of the code examples provided within the 1st Edition book. If you have the 2nd Edition of the book, please visit the [2nd Edition GitHub Repo](https://github.com/sciguy14/Exploring-Arduino-2nd-Edition).  
-  
-All of the code within the book is tested and confirmed to work with the provided example scenarios. However, I may choose to make improvements or adjustments to the code over time. When I make changes, they will always be available for download here. Futhermore, changes that I commit to this GitHub repository will automatically be zipped and pushed to the [Exploring Arduino Website](https://www.exploringarduino.com/content1).  For those unfamiliar with GitHub or git version control, I recommend that you visit the Exploring Arduino Website to download zip files containing the code for each chapter in this book.
+Listing 11-1: Arduino Code to send Data to the Computer                      /pot_to_processing/arduino_read_pot
+Listing 11-2: Processing Code to Read Data and Change Color on the Screen    /pot_to_processing/processing_display_color
+Listing 11-3: RGB LED Control via Serial                                     /processing_control_RGB/list_control
+Listing 11-4: Processing Sketch to Set Arduino RGB Colors                    /processing_control_RGB/processing_control_RGB
+Listing 11-5: Doorbell Transmitter                                           /doorbell/transmitting_arduino
+Listing 11-6: Doorbell Receiver                                              /doorbell/receiving_arduino
 
 Open Source License
 -------------------

@@ -1,4 +1,0 @@
-Chapter 1 only uses the "blink" example that comes with the Arduino IDE.
-
-It is included here, but can also be loaded directly from the Arduino IDE
-by navigating to  File > Examples > 01.Basics > Blink within the IDE.
